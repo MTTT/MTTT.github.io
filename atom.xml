@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[唐先森的技术博客]]></title>
+  <subtitle><![CDATA[Write the code Change the wrold]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-10-29T09:40:22.560Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[唐先森]]></name>
+    <email><![CDATA[oktangcc@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Mac Apache]]></title>
+    <link href="http://yoursite.com/2014/10/29/Mac-Apache/"/>
+    <id>http://yoursite.com/2014/10/29/Mac-Apache/</id>
+    <published>2014-10-29T09:28:39.000Z</published>
+    <updated>2014-10-29T09:29:01.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="Mac端_Apache_本地服务器">Mac端 Apache 本地服务器</h1>
+<h2 id="步骤">步骤</h2>
+<p><strong>第一步</strong>：打开终端 输入 sudo apachectl start</p>
+<p><strong>第二步</strong>：Finder下Cmd+G 输入 <strong>/library/WebServer/Documents</strong>  添加你所需要的文件 也可用系统自带的文件测试一下 打开后是这样的：</p>
+<p><img src="http://localhost/file.png" alt="Alt"></p>
+<p><strong>第三步</strong>：获取文件读取格式是：<strong><a href="http://localhost/＋文件名" target="_blank" rel="external">http://localhost/＋文件名</a></strong>，如：<strong><a href="http://localhost/PoweredByMacOSXLarge.gif" target="_blank" rel="external">http://localhost/PoweredByMacOSXLarge.gif</a></strong></p>
+<h2 id="例子">例子</h2>
+<p><img src="http://localhost/PoweredByMacOSXLarge.gif" alt="Alt"></p>
+<p><strong>也可用Safari打开</strong></p>
+<p> <a href="http://localhost/PoweredByMacOSXLarge.gif" target="_blank" rel="external">http://localhost/PoweredByMacOSXLarge.gif</a> </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="Mac端_Apache_本地服务器">Mac端 Apache 本地服务器</h1>
+<h2 id="步骤">步骤</h2>
+<p><strong>第一步</strong>：打开终端 输入 sudo apachectl start</p>
+<p><strong>第二]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
